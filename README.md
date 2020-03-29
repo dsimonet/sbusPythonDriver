@@ -9,6 +9,8 @@ derivated from
 
 This allow you to connect an FRsky receiver to your raspberry pi (or any UART compatible port) and decode values
 
+This driver was originaly created by Sokrates. I modfied it to get beter performance.
+
 It supports 16 standard Channels plus 2 digitals. (to be confirmed)
 
 It has been tested only on the below FrSky receivers:
